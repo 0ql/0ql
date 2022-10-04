@@ -18,4 +18,3 @@
 - [AI Hill Climb Racing](https://github.com/0ql/AI-Hill-Climb-Racing)
 - [Pathfinder](https://github.com/0ql/Pathfinder)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ql&layout=compact&theme=github_dark&langs_count=20&hide_border=true&show_icons=true" />
