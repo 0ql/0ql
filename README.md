@@ -6,6 +6,7 @@
 
 ## Projects
 
+- [yt-dlp Gui](https://github.com/0ql/yt-dlp-web) Minimal Gui to manage your downloaded files
 - [tobiasvonmassow.de](https://github.com/0ql/tobiasvonmassow.de) My personal Homepage
 - [Kaffee's Dual Ride](https://github.com/0ql/kaffees_dual_ride) Minecraft Mod
 - [google_search.nvim](https://github.com/0ql/google_search.nvim) Neovim Plugin
