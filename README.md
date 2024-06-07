@@ -21,4 +21,4 @@
 - [Pathfinder](https://github.com/0ql/Pathfinder)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/0ql/0ql/assets/45464816/97660379-5bb5-43a0-917d-6e3eb97bcc9c');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/0ql/0ql/blob/main/biden-joe-biden.gif?raw=true');]{x0000}$}
