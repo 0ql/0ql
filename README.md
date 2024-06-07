@@ -22,4 +22,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/0ql/0ql/main/N5QgdcKwXT9o6ezJCw.webp');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1; position: fixed; inset: 0; opacity: 0.3; background-position: center; background-size: cover; background-image: url('https://raw.githubusercontent.com/0ql/0ql/main/N5QgdcKwXT9o6ezJCw.webp');]{x0000}$}
