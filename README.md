@@ -21,6 +21,5 @@
 - [Pathfinder](https://github.com/0ql/Pathfinder)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; inset: 0; opacity: 100%; background-size: 100% 100%; background-image: url('https://github.com/0ql/0ql/assets/45464816/4f240446-7d26-458f-8db5-2bb90d9747d2')
-');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; inset: 0; opacity: 100%; background-size: 100% 100%; background-image: url('https://github.com/0ql/0ql/assets/45464816/4f240446-7d26-458f-8db5-2bb90d9747d2');]{x0000}$}
 ```
