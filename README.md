@@ -19,7 +19,3 @@
 - [AI Chrome Dino Game](https://github.com/0ql/AI-Chrome-Dino-Game)
 - [AI Hill Climb Racing](https://github.com/0ql/AI-Hill-Climb-Racing)
 - [Pathfinder](https://github.com/0ql/Pathfinder)
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1; position: fixed; inset: 0; opacity: 0.3; background-position: center; background-size: cover; background-image: url('https://raw.githubusercontent.com/0ql/0ql/main/N5QgdcKwXT9o6ezJCw.webp');]{x0000}$}
