@@ -36,7 +36,7 @@ Programmer · Web dev, design & AI tinkerer · Homelabber · Linux & FOSS enthus
 
 | Project | What it is | |
 | --- | --- | --- |
-| [**Jimu**](https://github.com/0ql/jimu) | Local-first workout log with splits, offline sync and a Claude/ChatGPT connector (SvelteKit + SQLite) | ![](https://img.shields.io/github/stars/0ql/jimu?style=flat-square&label=★&color=yellow) |
+| [**Jimu**](https://github.com/0ql/jimu) | Local-first workout log with splits, offline sync and a Claude/ChatGPT connector | ![](https://img.shields.io/github/stars/0ql/jimu?style=flat-square&label=★&color=yellow) |
 | [**Coffeetyper**](https://github.com/0ql/Coffeetyper-Svelte) | Minimalist, fast and super customizable typing test (Svelte + UnoCSS) | ![](https://img.shields.io/github/stars/0ql/Coffeetyper-Svelte?style=flat-square&label=★&color=yellow) |
 | [**Kaffee's Dual Ride**](https://github.com/0ql/kaffees_dual_ride) | Minecraft mod that lets two players share one horse, donkey or mule | ![](https://img.shields.io/github/stars/0ql/kaffees_dual_ride?style=flat-square&label=★&color=yellow) |
 | [**AI Hill Climb Racing**](https://github.com/0ql/AI-Hill-Climb-Racing) | Hill Climb Racing learned with NEAT neuroevolution | ![](https://img.shields.io/github/stars/0ql/AI-Hill-Climb-Racing?style=flat-square&label=★&color=yellow) |
